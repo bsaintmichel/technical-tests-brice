@@ -7,7 +7,7 @@ Check the Makefile to see what the programme can do for you.
 (e.g. `make train`, `make api-ping`)
 
 Normally : 
-* my docker container should be up and running at `https://technical-test-wfibpwbfra-ew.a.run.app` and the endpoints '/' (GET) and '/predict' (POST) should be available.
+* my docker container should be up and running at `https://technical-test-wfibpwbfra-ew.a.run.app` and the endpoints '/' (GET) and '/predict' (POST) should be available. It is probably not at the moment, since I don't want to let it run without any need for it.
 * you should make a .env file if you want to make local tests (e.g. `make api-server` then `make api-predict`)
 
 You can : 
