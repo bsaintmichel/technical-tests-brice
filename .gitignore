@@ -1,0 +1,6 @@
+*.egg-info
+model.pkl
+preproc.pkl
+prediction_results.csv
+.env
+__pycache__/

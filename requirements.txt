@@ -1,0 +1,10 @@
+fastapi
+scikit-learn
+imblearn
+uvicorn         # web server
+numpy==1.23.4
+pandas==1.5.3
+pytz            # time zone management
+# tests
+httpx           # HTTP client
+pytest-asyncio  # asynchronous I/O support for pytest
